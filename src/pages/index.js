@@ -19,7 +19,7 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
          
-          <h1>Happy Father's Day!</h1>
+          <h1>Happy Father's Day, Dave!</h1>
           </header>
           <h2>
           <i>"Fatherhood requires love, not DNA."</i>
